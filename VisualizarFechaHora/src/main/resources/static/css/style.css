@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+.container{
+	max-width: 800px;
+	width: 100%;
+	margin: 5rem auto;
+	display: flex;
+	justify-content: space-between;
+}
+a{
+	font-size: 1.5rem;
+}
+.date,.time{
+	justify-content: center;
+	font-size: 2rem;
+}
+.blue{
+	color: blue;
+}
+.green{
+	color: green;
+}
